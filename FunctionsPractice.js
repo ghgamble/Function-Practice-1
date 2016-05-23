@@ -74,4 +74,15 @@ console.log(startsWithA("bear"));
 
 
 //Part 7
+/*
+function excite (string) {
+    return (string + "!!!");
+}
+console.log(excite("yes"));
+console.log(excite("go"));
+*/
+
+
+//Part 8
+
 
